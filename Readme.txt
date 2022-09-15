@@ -1,17 +1,17 @@
-; 2022-08 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
-_8.1x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows8.1-kb5016681-x64_0cd6926c934e163a825b9f18032a5c37f8df7857.msu
+; 2022-09 适用于 Windows 8.1 基于 x64 系统的月度安全质量汇总
+_8.1x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/09/windows8.1-kb5017367-x64_bb0042f20714b02406713a20e9dc97809d26b538.msu
 
-; 2022-08 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
-_8.1x32=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/08/windows8.1-kb5016681-x86_78efe4e7f3c2d692e89fab89d08232d8d28e2a9d.msu
+; 2022-09 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
+_8.1x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/09/windows8.1-kb5017367-x86_f6548e80587b149e809439e80977f01cd8107b6b.msu
 
-;2022-08 Windows 10 1809 基于 x64 系统的累计更新
-_1809x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5016623-x64_c16c09c9b779b8db25b9570a765599f0869b7ee5.msu
+;2022-09 Windows 10 1809 基于 x64 系统的累计更新
+_1809x64=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/09/windows10.0-kb5017315-x64_611c310985bee4d193a714e702a47b5422918914.msu
 
-;2022-08 Windows 10 1809 基于 x86 系统的累计更新
-_1809x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5016623-x86_ee1177ca6e562184c2352e9adb5cadff5473ab67.msu
+;2022-09 Windows 10 1809 基于 x86 系统的累计更新
+_1809x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/09/windows10.0-kb5017315-x86_d8997e9b7d6ce9fbea1cef01371213dcdf689664.msu
 
 ; Windows10 LTSB x86-2021 21H2 
-_21H2x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5016616-x86_db3b8bae8d5e300638ac269d51c71060dfc12179.msu
+_21H2x32=https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/09/windows10.0-kb5017308-x86_ec788348202c33b871c8af028d045debd273576c.msu
 
 ; Windows10 LTSB x64-2021 21H2 
-_21H2x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/08/windows10.0-kb5016616-x64_94a65010a34b5bae2324c9433d1cae0b9d906d8c.msu
+_21H2x64=https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/09/windows10.0-kb5017308-x64_2027053968a06948b45d139d95475ab4feee5654.msu
